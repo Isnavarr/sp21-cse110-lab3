@@ -40,3 +40,38 @@ a:visited{
     color: green;
 }
 
+#date {
+    color:chocolate;
+}
+
+* {
+    color: black;
+}
+
+a[title] {
+    color:aqua;
+}
+
+h1, h3 {
+    color:green;
+}
+
+div li {
+    background-color: lightblue;
+}
+
+div > p {
+    background-color: lightblue;
+}
+
+div + p {
+    color: crimson;
+}
+
+div ~ li {
+    color:red;
+}
+
+h1.box {
+ color:wheat;
+}
